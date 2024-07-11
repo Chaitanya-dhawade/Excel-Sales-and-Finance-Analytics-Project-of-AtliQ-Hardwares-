@@ -22,8 +22,6 @@ opportunities and facilitate data-driven decision-making.
 Join me on this journey to uncover the hidden treasures within AtliQ Hardwares' sales 
 and finance data, enhancing their global market presence and fianancial health. 
 
-# Welcome to data- driven transformation! 
-# Project Highlights 
 # Project 1: Sales Analysis and Reporting 
 ## Objective: 
 Developed a comprehensive customer performance report. 
